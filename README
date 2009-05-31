@@ -17,3 +17,18 @@ xmlRPC libraries are necessary for building this application.
 
   xmlRPC: 
     http://github.com/tsupo/xmlRPC/tree
+
+------------------------------------------------------------------------------
+example:
+
+% hklink
+this is a test.
+this is a <a class="hatena" target="_blank" href="http://d.hatena.ne.jp/keyword/test">test</a>.
+初音ミク
+<a class="hatena" target="_blank" href="http://d.hatena.ne.jp/keyword/%bd%e9%b2%bb%a5%df%a5%af">初音ミク</a>
+BlogPet
+<a class="hatena" target="_blank" href="http://d.hatena.ne.jp/keyword/BlogPet">BlogPet</a>
+^Z
+
+% 
+
