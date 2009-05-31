@@ -1,0 +1,19 @@
+﻿
+'hkLink' builds links in keywords with Hatena Keyword Auto Link API.
+
+
+  Hatena Keyword Auto Link API
+    http://d.hatena.ne.jp/keyword/%a4%cf%a4%c6%a4%ca%a5%ad%a1%bc%a5%ef%a1%bc%a5%c9%bc%ab%c6%b0%a5%ea%a5%f3%a5%afAPI
+  Hatena Keyword API
+    http://d.hatena.ne.jp/keyword/%a4%cf%a4%c6%a4%ca%a5%ad%a1%bc%a5%ef%a1%bc%a5%c9API
+
+  see also:
+    http://watcher.moe-nifty.com/memo/2004/06/api_1.html
+    http://watcher.moe-nifty.com/memo/2004/07/api.html
+
+
+
+xmlRPC libraries are necessary for building this application.
+
+  xmlRPC: 
+    http://github.com/tsupo/xmlRPC/tree
